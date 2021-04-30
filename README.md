@@ -1,2 +1,2 @@
 # useful_stuff
-some random lines of code
+some function that could help while working with DL using pytorch framework
